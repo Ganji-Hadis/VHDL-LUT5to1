@@ -1,4 +1,4 @@
-# VHDL-LUT5to1
+# VHDL-LUT5in1
 LUT5*1
 
 
